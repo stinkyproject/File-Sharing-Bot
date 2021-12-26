@@ -1,12 +1,12 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "STINKY File Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/Stinkyrz/File-Sharing-Bot",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -35,11 +35,11 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first} Jika Ingin Bot Seperti Ini Bisa Langsung Cek @Stinkyrz."
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>Untuk Mendapatkan Suatu FILE Join Channel Utama Terlebih Dahulu Support by @Stinkyrz</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
