@@ -1,12 +1,12 @@
 {
-  "name": "STINKY File Sharing Bot",
+  "name": "STINKY File Sharing force sub 1",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Stinkyrz/File-Sharing-Bot",
+  "repository": "https://github.com/stinkyproject/File-Sharing-Bot",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
