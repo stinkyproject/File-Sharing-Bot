@@ -1,4 +1,4 @@
-# STINKY File-sharing force sub satu
+# STINKY File-sharing 
 
 <p align="center">
   <a href="https://www.python.org">
